@@ -1,0 +1,14 @@
+F:\WebApi\TestEx\Math\bin\Debug\net6.0\Math.deps.json
+F:\WebApi\TestEx\Math\bin\Debug\net6.0\Math.runtimeconfig.json
+F:\WebApi\TestEx\Math\bin\Debug\net6.0\Math.dll
+F:\WebApi\TestEx\Math\bin\Debug\net6.0\Math.pdb
+F:\WebApi\TestEx\Math\obj\Debug\net6.0\Math.csproj.AssemblyReference.cache
+F:\WebApi\TestEx\Math\obj\Debug\net6.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+F:\WebApi\TestEx\Math\obj\Debug\net6.0\Math.AssemblyInfoInputs.cache
+F:\WebApi\TestEx\Math\obj\Debug\net6.0\Math.AssemblyInfo.cs
+F:\WebApi\TestEx\Math\obj\Debug\net6.0\Math.csproj.CoreCompileInputs.cache
+F:\WebApi\TestEx\Math\obj\Debug\net6.0\Math.dll
+F:\WebApi\TestEx\Math\obj\Debug\net6.0\refint\Math.dll
+F:\WebApi\TestEx\Math\obj\Debug\net6.0\Math.pdb
+F:\WebApi\TestEx\Math\obj\Debug\net6.0\Math.genruntimeconfig.cache
+F:\WebApi\TestEx\Math\obj\Debug\net6.0\ref\Math.dll

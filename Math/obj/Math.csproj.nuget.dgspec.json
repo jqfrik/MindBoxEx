@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\WebApi\\TestEx\\Math\\Math.csproj": {}
+  },
+  "projects": {
+    "F:\\WebApi\\TestEx\\Math\\Math.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\WebApi\\TestEx\\Math\\Math.csproj",
+        "projectName": "Math",
+        "projectPath": "F:\\WebApi\\TestEx\\Math\\Math.csproj",
+        "packagesPath": "C:\\Users\\pslav\\.nuget\\packages\\",
+        "outputPath": "F:\\WebApi\\TestEx\\Math\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pslav\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2-pre.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\pslav\\.dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
