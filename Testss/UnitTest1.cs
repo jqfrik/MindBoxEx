@@ -5,7 +5,7 @@ using Xunit;
 
 namespace Testss;
 
-public class UnitTest1
+public class UnitTest1f
 {
     [Theory]
     [InlineData(10,62)]
